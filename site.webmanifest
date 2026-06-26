@@ -1,0 +1,25 @@
+{
+  "name": "Intelsy",
+  "short_name": "Intelsy",
+  "description": "Разрабатываем IT продукты для вашего бизнеса",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/mstile-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
